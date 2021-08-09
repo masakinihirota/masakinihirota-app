@@ -1,11 +1,8 @@
-// import Link from "next/link";
-// import Layout from "../components/MyLayout.js";
-
 import Link from 'next/link'
 import Layout from '../components/layout'
 
 const IndexPage = () => (
-  <Layout title="オアシス宣言">
+  <Layout>
     <h1>オアシス宣言</h1>
     <p>
       オアシス宣言
