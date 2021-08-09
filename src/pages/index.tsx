@@ -6,7 +6,7 @@ import { NextPage } from 'next'
 const Page: NextPage = () => {
   return (
     <Layout>
-      <h1>2021年8月9日</h1>
+      <h1>デプロイ：2021年8月9日</h1>
       <h1>真っ先に拾った（α版）</h1>
       <h2>github:public</h2>
       <h5>
