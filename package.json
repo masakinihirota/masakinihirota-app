@@ -10,7 +10,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "lint:fix": "next lint --fix"
+    "lint:fix": "next lint --fix",
+    "test": "jest"
   },
   "author": "masakinihirota",
   "license": "MIT",
@@ -23,10 +24,11 @@
   },
   "devDependencies": {
     "@types/node": "^16.4.10",
-    "@types/react": "^17.0.15",
+    "@types/react": "^17.0.16",
     "@types/react-dom": "^17.0.9",
     "eslint": "^7.32.0",
     "eslint-config-next": "^11.0.1",
+    "jest": "^27.0.6",
     "typescript": "^4.3.5"
   }
 }
