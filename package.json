@@ -9,10 +9,11 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "lint:fix": "next lint --fix"
   },
   "author": "masakinihirota",
-  "license": "未定",
+  "license": "MIT",
   "dependencies": {
     "next": "^11.0.0",
     "next-auth": "latest",
